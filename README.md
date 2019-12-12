@@ -43,6 +43,9 @@ Brush up your basics in data structures and algorithms by going through these fa
 
 Take the [Hackerrank's 30 days of coding](https://www.hackerrank.com/domains/tutorials/30-days-of-code) and unlock your prowess. 
 
+## Additional Resources 
+
+In addition to the above resources, you can brush up your aptitude skills by attempting the questions on [Indiabix](https://www.indiabix.com/). Good communication is always an important skill to have. Sharpen your english communication skills by downloading the awesome apps like [Duolingo](https://www.duolingo.com/) and [Memrise](https://www.memrise.com/). 
 
 ## GreyAtom's Philosophy on Learning
 
