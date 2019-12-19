@@ -15,7 +15,11 @@ One of the important sections of the GreyAtom entrance exam (and in fact the fir
 
 
 ## Coding
-Coding is an important skill that is necessary for any tech job. 
+Coding is an important skill that is necessary for any tech job. So it is necessary to understand the fundamentals of programming and practice coding very well. 
+
+### Programming
+To learn programming you can go through this excellent resource of Runestone academy -> [Fundamentals of Python Programming](https://runestone.academy/runestone/books/published/fopp/index.html) 
+While the book focusses on Python, the principles present can be used for any language. Do check [Runestone Academy](http://runestoneinteractive.org/pages/library.html) for more fantastic books that you can refer for learning. 
 
 ### Learning Basic Data Structures and Algorithms
 
@@ -28,11 +32,6 @@ Brush up your basics in data structures and algorithms by going through these fa
 ### 30 days of coding
 
 Take the [Hackerrank's 30 days of coding](https://www.hackerrank.com/domains/tutorials/30-days-of-code) and unlock your prowess. 
-
-## Additional Resources 
-
-In addition to the above resources, you can brush up your aptitude skills by attempting the questions on [Indiabix](https://www.indiabix.com/). Good communication is always an important skill to have. Sharpen your english communication skills by downloading the awesome apps like [Duolingo](https://www.duolingo.com/) and [Memrise](https://www.memrise.com/). 
-
 
 
 ## Foundations of Web Development
@@ -52,7 +51,13 @@ A very good introductory course on Javascript to get started on.
 
 After the introductory courses are done, go ahead and learn responsive web design on [Free CodeCamp](https://www.freecodecamp.org/learn).
 
+## Additional Resources 
 
+Good communication is always an important skill to have. Sharpen your english communication skills by downloading the awesome apps like [Duolingo](https://www.duolingo.com/) and [Memrise](https://www.memrise.com/). 
+
+## How to reapply online.
+
+GreyAtom believes in giving multiple chances to applicants and we don't have any restrictions for reapplying. Go through the learning journey and you feel you are ready to reapply, all you need to do is to go to the website -> [GreyAtom's Frontend Engineering Program](https://greyatom.com/programs/front-end-course-free). Enter your details and click **Start Application** and follow the instructions. Once you complete the application, the link for the exam will be emailed to you. Do go through this video to understand how to attempt the entrance exam -> [How to take GreyAtom's Online Entrance Exam](https://www.youtube.com/watch?v=L0JPIJQHKjY). Once you complete the entrance exam, our team will reach out to you for further steps. 
 
 ## GreyAtom's Philosophy on Learning
 
